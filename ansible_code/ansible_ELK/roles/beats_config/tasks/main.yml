@@ -1,4 +1,0 @@
----
-# tasks file for setup_ELK
-- include: metricbeat.yml
-- include: filebeat.yml
